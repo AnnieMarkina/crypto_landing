@@ -2,16 +2,17 @@
 
 /* First greeting part + navigation menu */
 
+body {
+    margin: 0
+  }
+
 .header_block {
     position: relative;
-    width: 101.1%; 
     height: 1150px;
     background-image: url(images/background.png);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
-    margin: -9px;
-    border: 1px solid transparent;
 }
 
 /* navigation header */
@@ -325,7 +326,6 @@
 
 .footer {
     width: 101.1%;
-    margin: -7px;
     height: 223px;
     background: #30292F;
     
