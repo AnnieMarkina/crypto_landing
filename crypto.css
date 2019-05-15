@@ -17,6 +17,7 @@ body {
 
 .header_block__header_navigation {
     display: flex;
+    padding-top: 25px;
     width: 92%;
     justify-content: space-between;
     margin: auto;
