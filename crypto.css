@@ -7,6 +7,7 @@ body {
 .header_block {
     position: relative;
     height: 1150px;
+    padding-top: 25px;
     background-image: url(images/background.png);
     background-repeat: no-repeat;
     background-position: top center;
@@ -17,7 +18,6 @@ body {
 
 .header_block__header_navigation {
     display: flex;
-    padding-top: 25px;
     width: 92%;
     justify-content: space-between;
     margin: auto;
